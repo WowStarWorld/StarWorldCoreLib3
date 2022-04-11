@@ -1,6 +1,6 @@
 # StarWorldCoreLib3
 >A simple data processing module<br>
->Version: 1.9.1
+>Version: 1.9.2
 
 Example Code
 ```python
